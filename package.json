@@ -1,0 +1,21 @@
+{
+  "name": "mame-library",
+  "version": "1.0.0",
+  "description": "Mame is JavaScript Library where is focusing on readability, simplicity and easy to maintenance",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mame",
+    "JavaScript Library"
+  ],
+  "author": "Sabiq Muhammad Antebing Mame",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
