@@ -1,21 +1,32 @@
 {
-  "name": "mame-library",
+  "name": "mame.js",
   "version": "1.0.0",
-  "description": "Mame is JavaScript Library where is focusing on readability, simplicity and easy to maintenance",
+  "description": "Mame is JavaScript Library where is focusing on readability, simplicity, and easy to maintenance",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabiq7392/__LIBRARY__.git"
+  },
   "keywords": [
-    "Mame",
-    "JavaScript Library"
+    "mame.js",
+    "mame-library",
+    "javascript-library"
   ],
   "author": "Sabiq Muhammad Antebing Mame",
   "license": "ISC",
-  "devDependencies": {
-    "eslint": "^7.32.0"
-  }
+  "bugs": {
+    "url": "https://github.com/sabiq7392/__LIBRARY__/issues"
+  },
+  "homepage": "https://github.com/sabiq7392/__LIBRARY__#readme"
 }
