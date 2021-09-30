@@ -24,6 +24,7 @@
         {
           "js": "always"
         }
-      ]
+      ],
+      "no-plusplus":"off"
     }
 }
